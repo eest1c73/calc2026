@@ -17,7 +17,7 @@ def ejecutar_operacion(nombre_modulo, nombre_funcion, a, b):
         print(f"{nombre_funcion}: error -> {e}")
 
 
-print("=== CALCULADORA DEL EQUIPO ===")
+print("=== CALCULADORA DEL EQUIPO   ===")
 print()
 
 ejecutar_operacion("suma", "sumar", 10, 5)
